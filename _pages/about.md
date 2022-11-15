@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor in FinTech at [School of Business, Stevens Institute of Technology] (https://www.stevens.edu/school-business). 
+I am a tenure-track Assistant Professor in FinTech at [School of Business, Stevens Institute of Technology](https://www.google.com). 
 
   My research and teaching interests are: 
   FinTech: Cryptocurrencies, Machine Learning, Big Data
