@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jingrui Li / Jingrui Li's Personal Website"
 title_separator          : "-"
-name                     : &name "Jingrui (Victoria) Li"
+name                     : &name "Jingrui (Victoria) Li, Ph.D."
 description              : &description "Stevens Institute of Technology"
 url                      : https://vik7090.github.io/JingruiVictoriaLi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
