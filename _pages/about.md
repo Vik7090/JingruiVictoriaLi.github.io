@@ -24,6 +24,3 @@ Email:
 <dd>Top 10% of Authors by total new downloads within the last 12 months</dd>
 </dl>
 
-**[Google Scholar Page](https://scholar.google.com/citations?user=repX8TEAAAAJ&hl=en&authuser=1)**
-**[SSRN Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2291123)**
-
