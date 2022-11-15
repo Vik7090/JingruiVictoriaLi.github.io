@@ -18,10 +18,10 @@ Email:
 <dd>jli264@stevens.edu
 <dd>jingrui.victoria.li@gmail.com
 
-**[SSRN Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2291123)**
+#### SSRN
 <dd>Top 10% of Authors by all-time downloads; 
 <dd>Top 10% of Authors by total new downloads within the last 12 months
 
 **[Google Scholar Page](https://scholar.google.com/citations?user=repX8TEAAAAJ&hl=en&authuser=1)**
-
+**[SSRN Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2291123)**
 
