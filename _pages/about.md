@@ -12,16 +12,16 @@ I am a tenure-track Assistant Professor in FinTech at [School of Business, Steve
 
 My research and teaching interests are: 
 
-FinTech: Cryptocurrencies, Machine Learning, Big Data
++FinTech: Cryptocurrencies, Machine Learning, Big Data
 
-Asset Pricing: Theoretical and Empirical Asset Pricing, Derivatives, Investments, and Market Microstructure
++Asset Pricing: Theoretical and Empirical Asset Pricing, Derivatives, Investments, and Market Microstructure
 
 <dl>
-<dt>Email</dt>
+<dt>Email:</dt>
 <dd>jli264@stevens.edu</dd>
 <dd>jingrui.victoria.li@gmail.com</dd>
 
-<dt>SSRN</dt>
+<dt>SSRN:</dt>
 <dd>Top 10% of Authors by all-time downloads;</dd>
 <dd>Top 10% of Authors by total new downloads within the last 12 months</dd>
 </dl>
