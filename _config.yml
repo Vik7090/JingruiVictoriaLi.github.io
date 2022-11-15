@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jingrui Li / Jingrui Li's Personal Website"
 title_separator          : "-"
 name                     : &name "Jingrui (Victoria) Li"
-description              : &description "personal description"
+description              : &description "Stevens Institute of Technology"
 url                      : https://vik7090.github.io/JingruiVictoriaLi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vik7090.github.io/JingruiVictoriaLi.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jingrui (Victoria) Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor (tenure-track) in FinTech"
   location         : "Location"
-  employer         :
+  employer         : "Stevens Institute of Technology"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=repX8TEAAAAJ&hl=en&authuser=1"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5458-2347"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
