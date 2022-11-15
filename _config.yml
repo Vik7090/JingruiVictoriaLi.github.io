@@ -83,12 +83,12 @@ author:
   name             : "Jingrui (Victoria) Li"
   avatar           : "profile.png"
   bio              : "Assistant Professor (tenure-track) in FinTech"
-  location         : "Location"
+  location         : "Greater New York City Area, USA"
   employer         : "Stevens Institute of Technology"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=repX8TEAAAAJ&hl=en&authuser=1"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jli264@stevens.edu"
+  researchgate     : "https://www.researchgate.net/profile/Jingrui-Li-8?ev=hdr_xprf&_sg=5sAbiGeGOdxcfE8EIFzp1kvEQuc0cm3LnaPzVzvdJ-FQyv5hksw-5VRz_hJ-p9APUrqpxxRNBnpCrN3aCJcYTgke"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-5458-2347"
