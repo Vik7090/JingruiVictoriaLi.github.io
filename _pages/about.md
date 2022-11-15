@@ -12,9 +12,9 @@ I am a tenure-track Assistant Professor in FinTech at [School of Business, Steve
 
 My research and teaching interests are: 
 
-**FinTech:** Cryptocurrencies, Machine Learning, Big Data
+<u>**FinTech:**</u> Cryptocurrencies, Machine Learning, Big Data
 
-**Asset Pricing:** Theoretical and Empirical Asset Pricing, Derivatives, Investments, and Market Microstructure
+<u>**Asset Pricing:**</u> Theoretical and Empirical Asset Pricing, Derivatives, Investments, and Market Microstructure
 
 <dl>
 <dt>Email:</dt>
