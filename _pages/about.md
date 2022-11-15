@@ -10,9 +10,11 @@ redirect_from:
 
 I am a tenure-track Assistant Professor in FinTech at [School of Business, Stevens Institute of Technology](https://www.stevens.edu/school-business). 
 
-<dd>My research and teaching interests are: 
-<dd>__FinTech__: Cryptocurrencies, Machine Learning, Big Data
-<dd>__Asset Pricing__: Theoretical and Empirical Asset Pricing, Derivatives, Investments, and Market Microstructure
+My research and teaching interests are: 
+
+FinTech: Cryptocurrencies, Machine Learning, Big Data
+
+Asset Pricing: Theoretical and Empirical Asset Pricing, Derivatives, Investments, and Market Microstructure
 
 <dl>
 <dt>Email</dt>
